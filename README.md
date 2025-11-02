@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Umair  
 
-<!--
-**mohdumair0110lucknavi/mohdumair0110lucknavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3rd-Year Computer Engineering Student @ Toronto Metropolitan University (TMU)**  
+Passionate about software development, embedded systems, and applied engineering design  
+Currently expanding my skills in **Python** and full-stack development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+**Programming Languages:**  
+- C, C++, Java (strong foundation)  
+- Python (currently learning)
+
+**Tools & Technologies:**  
+- Git, GitHub, VS Code, CodeWarrior, IntelliJ IDEA  
+- Arduino & microcontrollers  
+- Object-Oriented Programming (OOP), Data Structures, and Algorithms  
+
+---
+
+## Completed TMU Courses
+- **COE328 – Digital Systems**  
+- **COE318 – Object-Oriented Programming**  
+- **COE438 – Microprocessor Systems**  
+- **CPS188 – Data Structures and Algorithms**  
+- **CPS528 – Advanced Object-Oriented Programming**
+
+---
+
+### About Me
+I’m a motivated computer engineering student with hands-on experience in software design and embedded system development.  
+I enjoy building efficient programs, solving technical challenges, and continuously learning new technologies.
+
+---
