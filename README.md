@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Umair
 
-**3rd-year Computer Engineering (Specialization Software) student at Toronto Metropolitan University** · Dean's List
-Building skills in **data engineering, cloud, and software development**.
+**3rd-year Computer Engineering (Specialization Software) student at Toronto Metropolitan University** 
+**Building skills in data engineering, cloud, and software development**.
 
 ---
 
