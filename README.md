@@ -1,34 +1,23 @@
-# 👋 Hi, I'm Mohammad Umair  
+# 👋 Hi, I'm Mohammad Umair
 
-**3rd-Year Computer Engineering Student @ Toronto Metropolitan University (TMU)**  
-Passionate about software development, embedded systems, and applied engineering design  
-Currently expanding my skills in **Python** and full-stack development  
-
----
-
-## Technical Skills
-**Programming Languages:**  
-- C, C++, Java (strong foundation)  
-- Python (currently learning)
-
-**Tools & Technologies:**  
-- Git, GitHub, VS Code, CodeWarrior, IntelliJ IDEA  
-- Arduino & microcontrollers  
-- Object-Oriented Programming (OOP), Data Structures, and Algorithms  
+**3rd-year Computer Engineering (Software) student at Toronto Metropolitan University** · Dean's List
+Building skills in **data engineering, cloud, and software development**.
 
 ---
 
-## Completed TMU Courses
-- **COE328 – Digital Systems**  
-- **COE318 – Object-Oriented Programming**  
-- **COE438 – Microprocessor Systems**  
-- **CPS188 – Data Structures and Algorithms**  
-- **CPS528 – Advanced Object-Oriented Programming**
+## 💼 Experience
+- **Network Operations Intern, Ericsson** (Sept 2026 – present): supporting wireless network operations for Rogers; operational tracking, access coordination and reporting
+- **Developer Intern, Momentum Financial Services Group**: built internal AI tooling, including an Excel add-in and API integrations
 
----
+## 🚀 Projects
+- **[Canadian Economy Data Pipeline](https://github.com/mohdumair0110lucknavi/canada-econ-pipeline)**: Python pipeline ingesting Bank of Canada and Statistics Canada data (exchange rates, policy rate, CPI, unemployment, housing prices) into a Bronze/Silver/Gold architecture. *In progress: cleaning, SQL modelling and Azure next.*
+- **Retail Data Lakehouse** (team project): medallion pipeline with a star schema, DuckDB/MotherDuck, and a Streamlit dashboard. *In progress.*
 
-### About Me
-I’m a motivated computer engineering student with hands-on experience in software design and embedded system development.  
-I enjoy building efficient programs, solving technical challenges, and continuously learning new technologies.
+## 🛠️ Skills
+- **Languages:** Python, SQL (learning), C, C++, Java
+- **Data:** pandas, REST APIs, data modelling basics
+- **Cloud & tools:** AWS (Certified Cloud Practitioner), Git, GitHub, VS Code, Excel, Power BI (learning)
+- **Foundations:** Object-Oriented Programming, Data Structures and Algorithms
 
----
+## 📜 Certifications
+- AWS Certified Cloud Practitioner (2026)
